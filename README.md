@@ -1,4 +1,4 @@
-🗂️ Repository Description (for Hugging Face or GitHub)
+
 🗣️ Urdu Chatbot — An NLP Model for Conversational Urdu
 
 This project presents an Urdu Chatbot built using deep learning and natural language processing (NLP) techniques.
